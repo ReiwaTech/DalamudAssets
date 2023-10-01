@@ -1,0 +1,133 @@
+{
+  "Version": 300,
+  "UpstreamVersion": 216,
+  "Assets": [
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/serveropcode.json",
+      "FileName": "UIRes/serveropcode.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/clientopcode.json",
+      "FileName": "UIRes/clientopcode.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/bannedplugin.json",
+      "FileName": "UIRes/bannedplugin.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/FontAwesomeFreeSolid.otf",
+      "FileName": "UIRes/FontAwesomeFreeSolid.otf",
+      "Hash": "4860698FEE75A5481CB00C744B7EB297ABDC455D"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/Inconsolata-Regular.ttf",
+      "FileName": "UIRes/Inconsolata-Regular.ttf",
+      "Hash": "FBE9E14427D84CE3F25F4D6A8EF57F527DB5A154"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/logo.png",
+      "FileName": "UIRes/logo.png",
+      "Hash": "0F6323DDFA3665639142252281D22C675D8CD617"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/tsmShade.png",
+      "FileName": "UIRes/tsmShade.png",
+      "Hash": "AB7EE2E20955CDC4B98886BE7AEE962A98105D4B"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/tsmLogo.png",
+      "FileName": "UIRes/tsmLogo.png",
+      "Hash": "DAC17EE20C63A0CD0C5040A8A900E3CA1B67C5CC"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/defaultIcon.png",
+      "FileName": "UIRes/defaultIcon.png",
+      "Hash": "81185C2BCC5DF0B52B610187EB3B9671C7FB0568"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/disabledIcon.png",
+      "FileName": "UIRes/disabledIcon.png",
+      "Hash": "3AFC19400A6475198503DCC25314BCBCDC03B929"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/outdatedInstallableIcon.png",
+      "FileName": "UIRes/outdatedInstallableIcon.png",
+      "Hash": "BA96E817FE8EE2FCC976DEC986973C78BE3A37AE"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/troubleIcon.png",
+      "FileName": "UIRes/troubleIcon.png",
+      "Hash": "82F7C168A9C712BFCBADD7CFD49060BBC446A634"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/updateIcon.png",
+      "FileName": "UIRes/updateIcon.png",
+      "Hash": "544DA1125ADC03D63610127DC76E1FC5175615D3"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/installedIcon.png",
+      "FileName": "UIRes/installedIcon.png",
+      "Hash": "F9A7E334CB719CF36B265A212B3D32A4578429B4"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/thirdIcon.png",
+      "FileName": "UIRes/thirdIcon.png",
+      "Hash": "2DFA794867B1ABFEFFF2923FF3C1E06801F9CBC1"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/thirdInstalledIcon.png",
+      "FileName": "UIRes/thirdInstalledIcon.png",
+      "Hash": "05E2B4508517646F0FC4E55A821F9A990B2559F7"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_de.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_de.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_es.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_es.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_fr.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_fr.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_it.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_it.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_ja.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_ja.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_ko.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_ko.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_no.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_no.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_ru.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_ru.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_zh.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_zh.json"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_tw.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_tw.json"
+    },
+    {
+      "Url": "https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Regular.otf",
+      "FileName": "UIRes/NotoSansCJKsc-Regular.otf",
+      "Hash": "d577bdc302c03212e1d05fd3f808657a71edea0c"
+    },
+    {
+      "Url": "https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Medium.otf",
+      "FileName": "UIRes/NotoSansCJKsc-Medium.otf",
+      "Hash": "c8ac9e680749bf31536971bc51db257ddbaf3e68"
+    }
+  ]
+}
