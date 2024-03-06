@@ -12,6 +12,9 @@ const appendList = {
     url: 'https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Medium.otf',
     sha1: 'c8ac9e680749bf31536971bc51db257ddbaf3e68',
   },
+  'UIRes/server.json': {
+    url: 'https://zhyupe.github.io/ffxiv-datamining-worker/server.json',
+  },
 }
 const updateList = {
   'UIRes/NotoSansCJKsc-Regular.otf': {

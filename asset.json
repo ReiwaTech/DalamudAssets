@@ -1,6 +1,6 @@
 {
-  "Version": 300,
-  "UpstreamVersion": 216,
+  "Version": 301,
+  "UpstreamVersion": 244,
   "Assets": [
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/serveropcode.json",
@@ -60,6 +60,11 @@
       "Hash": "82F7C168A9C712BFCBADD7CFD49060BBC446A634"
     },
     {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/devPluginIcon.png",
+      "FileName": "UIRes/devPluginIcon.png",
+      "Hash": "DC33AC5B811D32815BCB4C4261563EFFE532638E"
+    },
+    {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/updateIcon.png",
       "FileName": "UIRes/updateIcon.png",
       "Hash": "544DA1125ADC03D63610127DC76E1FC5175615D3"
@@ -73,6 +78,11 @@
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/thirdIcon.png",
       "FileName": "UIRes/thirdIcon.png",
       "Hash": "2DFA794867B1ABFEFFF2923FF3C1E06801F9CBC1"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/changelogApiBump.png",
+      "FileName": "UIRes/changelogApiBump.png",
+      "Hash": "16BB14DEF2AD9894C9DA37483A6B0B9AADFCD72D"
     },
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/thirdInstalledIcon.png",
@@ -128,6 +138,10 @@
       "Url": "https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Medium.otf",
       "FileName": "UIRes/NotoSansCJKsc-Medium.otf",
       "Hash": "c8ac9e680749bf31536971bc51db257ddbaf3e68"
+    },
+    {
+      "Url": "https://zhyupe.github.io/ffxiv-datamining-worker/server.json",
+      "FileName": "UIRes/server.json"
     }
   ]
 }
