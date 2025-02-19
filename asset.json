@@ -1,6 +1,6 @@
 {
-  "Version": 301,
-  "UpstreamVersion": 244,
+  "Version": 302,
+  "UpstreamVersion": 319,
   "Assets": [
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/serveropcode.json",
