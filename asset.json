@@ -1,6 +1,6 @@
 {
-  "Version": 302,
-  "UpstreamVersion": 319,
+  "Version": 303,
+  "UpstreamVersion": 380,
   "Assets": [
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/serveropcode.json",
@@ -18,6 +18,11 @@
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/FontAwesomeFreeSolid.otf",
       "FileName": "UIRes/FontAwesomeFreeSolid.otf",
       "Hash": "4860698FEE75A5481CB00C744B7EB297ABDC455D"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/FontAwesome710FreeSolid.otf",
+      "FileName": "UIRes/FontAwesome710FreeSolid.otf",
+      "Hash": "4E4A7F0BF14D5E30DA71A3B697C2D7919D8FF5C1"
     },
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/Inconsolata-Regular.ttf",
@@ -88,6 +93,11 @@
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/thirdInstalledIcon.png",
       "FileName": "UIRes/thirdInstalledIcon.png",
       "Hash": "05E2B4508517646F0FC4E55A821F9A990B2559F7"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/badgeAtlas.png",
+      "FileName": "UIRes/badgeAtlas.png",
+      "Hash": "ADA0C94B92ACCBB7FAE799FE500DB986E923A623"
     },
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_de.json",
