@@ -1,15 +1,7 @@
 {
-  "Version": 303,
-  "UpstreamVersion": 380,
+  "Version": 305,
+  "UpstreamVersion": 423,
   "Assets": [
-    {
-      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/serveropcode.json",
-      "FileName": "UIRes/serveropcode.json"
-    },
-    {
-      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/clientopcode.json",
-      "FileName": "UIRes/clientopcode.json"
-    },
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/bannedplugin.json",
       "FileName": "UIRes/bannedplugin.json"
@@ -100,6 +92,16 @@
       "Hash": "ADA0C94B92ACCBB7FAE799FE500DB986E923A623"
     },
     {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/NotoSansCJK-Medium.ttc",
+      "FileName": "UIRes/NotoSansCJK-Medium.ttc",
+      "Hash": "32D8A300209C1F8C2AC5BCA1078AAE26870861B7"
+    },
+    {
+      "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/NotoSansCJK-Regular.ttc",
+      "FileName": "UIRes/NotoSansCJK-Regular.ttc",
+      "Hash": "41CEE0565517A6A1C7457C687273CF9C00159379"
+    },
+    {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_de.json",
       "FileName": "UIRes/loc/dalamud/dalamud_de.json"
     },
@@ -138,16 +140,6 @@
     {
       "Url": "https://goatcorp.github.io/DalamudAssets/UIRes/loc/dalamud/dalamud_tw.json",
       "FileName": "UIRes/loc/dalamud/dalamud_tw.json"
-    },
-    {
-      "Url": "https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Regular.otf",
-      "FileName": "UIRes/NotoSansCJKsc-Regular.otf",
-      "Hash": "d577bdc302c03212e1d05fd3f808657a71edea0c"
-    },
-    {
-      "Url": "https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Medium.otf",
-      "FileName": "UIRes/NotoSansCJKsc-Medium.otf",
-      "Hash": "c8ac9e680749bf31536971bc51db257ddbaf3e68"
     },
     {
       "Url": "https://zhyupe.github.io/ffxiv-datamining-worker/server.json",

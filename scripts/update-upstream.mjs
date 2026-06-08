@@ -4,27 +4,11 @@ import { generate } from './util/generate.mjs'
 const upstream = 'https://goatcorp.github.io/DalamudAssets/asset.json'
 
 const appendList = {
-  'UIRes/NotoSansCJKsc-Regular.otf': {
-    url: 'https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Regular.otf',
-    sha1: 'd577bdc302c03212e1d05fd3f808657a71edea0c',
-  },
-  'UIRes/NotoSansCJKsc-Medium.otf': {
-    url: 'https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Medium.otf',
-    sha1: 'c8ac9e680749bf31536971bc51db257ddbaf3e68',
-  },
   'UIRes/server.json': {
     url: 'https://zhyupe.github.io/ffxiv-datamining-worker/server.json',
   },
 }
 const updateList = {
-  'UIRes/NotoSansCJKsc-Regular.otf': {
-    url: 'https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Regular.otf',
-    sha1: 'd577bdc302c03212e1d05fd3f808657a71edea0c',
-  },
-  'UIRes/NotoSansCJKsc-Medium.otf': {
-    url: 'https://mirrors.tuna.tsinghua.edu.cn/ctan/fonts/notocjksc/NotoSansCJKsc-Medium.otf',
-    sha1: 'c8ac9e680749bf31536971bc51db257ddbaf3e68',
-  },
 }
 const removeList = [
   'UIRes/NotoSansCJKjp-Medium.otf',
